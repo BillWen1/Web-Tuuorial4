@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="1">
+        <title>One Hundred Years of Solitude</title>
+        <author>Gabriel García Márquez</author>
+        <price>55.00 CNY</price>
+    </book>
+    
+    <book id="2">
+        <title>A Brief History of Time</title>
+        <author>Stephen William Hawking</author>
+        <price>54.60 CNY</price>
+    </book>
+
+    <book id="3">
+        <title>Diary of a Madman</title>
+        <author>Lu Xun</author>
+        <price>49.00 CNY</price>
+    </book>
+</bookstore>

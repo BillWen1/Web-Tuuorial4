@@ -1,0 +1,71 @@
+{
+    "userProfiles": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@gmail.com",
+        "dateOfBirth": "1990-04-15",
+        "address": {
+          "street": "123 Maple Street",
+          "city": "Springfield",
+          "state": "IL",
+          "zipCode": "62704"
+        },
+        "preferences": {
+          "theme": "dark",
+          "language": "English",
+          "notifications": {
+            "email": true,
+            "sms": false,
+            "push": true
+          },
+          "subscription": true
+        }
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@gmail.com",
+        "dateOfBirth": "1985-08-22",
+        "address": {
+          "street": "456 Oak Avenue",
+          "city": "Boston",
+          "state": "MA",
+          "zipCode": "02118"
+        },
+        "preferences": {
+          "theme": "light",
+          "language": "French",
+          "notifications": {
+            "email": false,
+            "sms": true,
+            "push": true
+          },
+          "subscription": false
+        }
+      },
+      {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "email": "alice.johnson@gmail.com",
+        "dateOfBirth": "1992-12-05",
+        "address": {
+          "street": "789 Pine Road",
+          "city": "Seattle",
+          "state": "WA",
+          "zipCode": "98101"
+        },
+        "preferences": {
+          "theme": "dark",
+          "language": "Spanish",
+          "notifications": {
+            "email": true,
+            "sms": true,
+            "push": false
+          },
+          "subscription": true
+        }
+      }
+    ]
+  }
+  
